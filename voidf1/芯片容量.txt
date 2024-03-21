@@ -1,0 +1,9 @@
+大容量	stm32F103xC    HD
+ 	stm32F103xD
+                stm32F103xE
+
+中容量     stm32F103x8     MD  
+               stm32F103xB
+
+小容量     stm32F103x4     LD
+               stm32F103x6
